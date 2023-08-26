@@ -1,3 +1,5 @@
+<p align="center"><a href="https://app.codility.com/programmers/" target="_blank"><img src="https://i.imgur.com/AJGnXlt.jpg" width="400"></a></p>
+
 # Codility Code Challenges in Java
 
 This repository contains my solutions for the [Codility] code challenges in Java. Codility is an online platform that helps companies assess the technical skills of candidates and employees. The code challenges are designed to test various aspects of programming, such as algorithms, data structures, logic, and problem-solving.
